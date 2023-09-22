@@ -51,6 +51,7 @@ env/Scripts/activate
 pip install notebook # install notebook
 ipython kernel install --user --name=venv 
 pip install pandas
+pip install psycopg2
 ```
 4. Ejecutar jupyter notebook:
 ```shell
