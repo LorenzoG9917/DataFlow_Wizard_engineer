@@ -68,11 +68,6 @@ mkdir output_data
 
 3. Ejecuta notebook `etl_project.ipynb` para crear la base de datos, definir las tablas y cargar los datos en la base de datos PostgreSQL.
 
-
-
 ## Autor
-Este proyecto ha sido desarrollado por [Lorenzo Guerrero](https://www.linkedin.com/feed/) con fines educativos.
+Este proyecto ha sido desarrollado por [Lorenzo Guerrero](https://www.linkedin.com/feed/)
 
----
-
-**Nota:** Este proyecto es un ejemplo educativo y puede requerir adaptaciones para su uso en un entorno de producción. Los datos utilizados aquí son ficticios y se proporcionan solo con fines de demostración.
